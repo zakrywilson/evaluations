@@ -7,15 +7,7 @@
 # example, after the elements have been paired correctly, we find that 
 # 1 * 2 = 2, 20 * 2 = 40, and 4 * 2 = 8, meaning the common factor is 2.
 
-# test data:
-
-   # a = [1, 20, 4, 10, 8]		# = 43
-   # b = [8, 2, 40, 16, 20]	# = 86
-
-   # a = [1, 4,  8,  10, 20] # = 43
-   # b = [2, 8,  16, 20, 40] # = 86
-
-a = [10, 4, 18, 6, 14] # = 52 
+a = [10, 4, 18, 6, 14]  # = 52 
 b = [7,  3, 2,  9, 5]  # = 26
 
 a_sum = 0.0
